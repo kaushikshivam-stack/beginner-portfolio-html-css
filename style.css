@@ -55,7 +55,6 @@ bottom: 420px;
 .parent {
     display: grid;
     grid-template-columns: 0.5fr 1fr;
-    grid-template-rows: repeat(1, 1fr);
     width: 50%;
     margin: 100px auto 0 auto;
     text-align: left;
@@ -102,4 +101,11 @@ a {
     color: #eaf6f6;
     font-size: 0.75rem;
     padding: 20px 0;
+
+}
+
+.typing img,
+.chillies img {
+    width: 150px;
+    height: 150px;
 }
