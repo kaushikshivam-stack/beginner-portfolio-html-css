@@ -13,7 +13,7 @@ This is my beginner-level personal portfolio website created using HTML and CSS 
 - Clean and beginner-friendly layout
 
 ## 🌐 Live Demo
-👉 https://kaushikshivam-stack.github.io/html-resume-project/
+👉 https://kaushikshivam-stack.github.io/beginner-portfolio-html-css/
 
 ## 🙌 What I Learned
 - HTML page structure
