@@ -1,6 +1,6 @@
 # 🌐 Beginner-portfolio websites – HTML & CSS.
 
-This is my beginner-level personal portfolio website created using HTML and CSS while learning web development.
+This is my beginner-level portfolio website created using HTML and CSS while learning web development.
 
 ## 🔧 Technologies Used
 - HTML5
