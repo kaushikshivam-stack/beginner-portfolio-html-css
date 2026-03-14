@@ -21,4 +21,12 @@ This is my beginner-level personal portfolio website created using HTML and CSS 
 - Working with images and fonts
 - How to deploy a website using GitHub Pages
 
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](Screenshot1.png)
+
+### Footer Section
+![Footer Section](Screenshot2.png)
+
 ⭐ This project represents my progress and consistency in learning web development!
